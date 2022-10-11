@@ -29,9 +29,9 @@ Feature: Teste de API goRest
     * print response
     Examples:
       |user|
-      |4272|
-      |3044|
-      |3043|
+      |2423|
+      |2422|
+      |2421|
 
 
   Scenario: Create new user
